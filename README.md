@@ -1,4 +1,4 @@
-# chatbot
+# NexusChat
 
 ## How to run?
 
@@ -30,7 +30,7 @@ pip install -r requirements.txt
 chainlit init
 
 ```
-2. Run it
+2. Run NexusChat
 
 ```bash
 chainlit run app.py
