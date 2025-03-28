@@ -30,9 +30,9 @@ Our AI-powered assistant is designed to help real estate professionals, contract
 - **Gated Community Home** - Najjera, Kampala - UGX 520,000,000
 
 ### Investment Properties
-- **Commercial Complex** - Nakasero, Kampala - UGX 2,800,000,000
-- **Apartment Building (10 units)** - Bugolobi, Kampala - UGX 3,500,000,000
-- **Retail Plaza** - Downtown Kampala - UGX 1,950,000,000
+- **Commercial Complex** - Nakasero, Kampala - UGX 40,800,000,000
+- **Apartment Building (10 units)** - Bugolobi, Kampala - UGX 30,500,000,000
+- **Retail Plaza** - Downtown Kampala - UGX 12,950,000,000
 - **Office Park** - Industrial Area, Kampala - UGX 4,200,000,000
 
 ## Menu Options 📋
