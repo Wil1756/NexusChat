@@ -21,8 +21,7 @@ conda activate llmapp
 ```bash
 pip install -r requirements.txt
 
-```
-<!-- ## chainlit commands
+ chainlit commands
 
 1. initialise chainlit
 
@@ -34,5 +33,3 @@ chainlit init
 
 ```bash
 chainlit run app.py
-
-``` -->
