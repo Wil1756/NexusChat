@@ -31,9 +31,9 @@ Our AI-powered assistant is designed to help real estate professionals, contract
 
 ### Investment Properties
 - **Commercial Complex** - Nakasero, Kampala - UGX 40,800,000,000
-- **Apartment Building (10 units)** - Bugolobi, Kampala - UGX 30,500,000,000
-- **Retail Plaza** - Downtown Kampala - UGX 12,950,000,000
-- **Office Park** - Industrial Area, Kampala - UGX 4,200,000,000
+- **Apartment Building (10 units)** - Bugolobi, Kampala - UGX 35,500,000,000
+- **Retail Plaza** - Downtown Kampala - UGX 19,950,000,000
+- **Office Park** - Industrial Area, Kampala - UGX 42,200,000,000
 
 ## Menu Options 📋
 

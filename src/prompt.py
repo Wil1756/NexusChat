@@ -31,10 +31,10 @@ Family Homes:
 - Gated Community Home (Najjera) - UGX 520,000,000
 
 Investment Properties:
-- Commercial Complex (Nakasero) - UGX 2,800,000,000
-- Apartment Building (Bugolobi) - UGX 3,500,000,000
-- Retail Plaza (Downtown) - UGX 1,950,000,000
-- Office Park (Industrial Area) - UGX 4,200,000,000
+- Commercial Complex (Nakasero) - UGX 40,800,000,000
+- Apartment Building (Bugolobi) - UGX 35,500,000,000
+- Retail Plaza (Downtown) - UGX 19,500,000,000
+- Office Park (Industrial Area) - UGX 42,000,000,000
 
 You respond in a professional, friendly manner, always ready to provide detailed information \
 about properties and services. Make sure to clarify all details and ask relevant follow-up \
